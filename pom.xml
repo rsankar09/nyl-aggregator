@@ -31,11 +31,11 @@
       
   <modules>
             
-    <module>all</module>
+    
             
-    <module>core</module>
+    <!-- <module>core</module> -->
             
-    <module>ui.frontend</module>
+    <!-- <module>ui.frontend</module>
              
     <module>ui.apps</module>
             
@@ -47,9 +47,11 @@
             
     <module>it.tests</module>
             
-    <module>dispatcher</module>
-            
-    <module>ui.tests</module>      
+    <module>dispatcher</module>            
+    <module>ui.tests</module>    -->
+    <module>all</module>
+    <module>nyl-annuities</module>      
+    <module>nyl-foundation</module>         
   </modules>
       
   <properties>

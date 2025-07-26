@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>NYL aggregator - All</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2025-07-26T17:47:48.684Z</entry>
+<entry key="groupId">com.nyl.aggregator</entry>
+<entry key="name">nyl-aggregator.all</entry>
+<entry key="description">All content package for NYL aggregator</entry>
+<entry key="artifactId">nyl-aggregator.all</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.nyl.aggregator</entry>
+</properties>

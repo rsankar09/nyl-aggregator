@@ -1,6 +1,3 @@
 [submodule "nyl-annuities"]
 	path = nyl-annuities
 	url = https://github.com/rsankar09/nyl-annuities.git
-[submodule "nyl-foundation"]
-	path = nyl-foundation
-	url = https://github.com/rsankar09/nyl-foundation.git

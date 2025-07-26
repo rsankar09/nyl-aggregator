@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 18
+Implementation-Title: NYL aggregator - All
+Implementation-Version: 0.0.1-SNAPSHOT
+Content-Package-Type: container
+Content-Package-Id: com.nyl.aggregator:nyl-aggregator.all:0.0.1-SNAPSHOT
+Content-Package-Description: All content package for NYL aggregator
+Content-Package-Roots: /apps/nyl-aggregator-packages,/apps/nyl-aggregato
+ r-vendor-packages
+

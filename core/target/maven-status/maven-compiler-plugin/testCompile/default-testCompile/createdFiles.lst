@@ -1,0 +1,7 @@
+com/nyl/aggregator/core/servlets/SimpleServletTest.class
+com/nyl/aggregator/core/models/HelloWorldModelTest.class
+com/nyl/aggregator/core/testcontext/AppAemContext.class
+com/nyl/aggregator/core/testcontext/AppAemContext$1.class
+com/nyl/aggregator/core/listeners/SimpleResourceListenerTest.class
+com/nyl/aggregator/core/filters/LoggingFilterTest.class
+com/nyl/aggregator/core/schedulers/SimpleScheduledTaskTest.class

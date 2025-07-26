@@ -1,0 +1,6 @@
+/Users/rajsanka/apps/multi/nyl-aggregator/core/src/test/java/com/nyl/aggregator/core/listeners/SimpleResourceListenerTest.java
+/Users/rajsanka/apps/multi/nyl-aggregator/core/src/test/java/com/nyl/aggregator/core/servlets/SimpleServletTest.java
+/Users/rajsanka/apps/multi/nyl-aggregator/core/src/test/java/com/nyl/aggregator/core/models/HelloWorldModelTest.java
+/Users/rajsanka/apps/multi/nyl-aggregator/core/src/test/java/com/nyl/aggregator/core/schedulers/SimpleScheduledTaskTest.java
+/Users/rajsanka/apps/multi/nyl-aggregator/core/src/test/java/com/nyl/aggregator/core/filters/LoggingFilterTest.java
+/Users/rajsanka/apps/multi/nyl-aggregator/core/src/test/java/com/nyl/aggregator/core/testcontext/AppAemContext.java

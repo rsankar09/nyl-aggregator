@@ -1,0 +1,11 @@
+com/nyl/aggregator/core/filters/package-info.class
+com/nyl/aggregator/core/listeners/package-info.class
+com/nyl/aggregator/core/filters/LoggingFilter.class
+com/nyl/aggregator/core/schedulers/SimpleScheduledTask$Config.class
+com/nyl/aggregator/core/servlets/package-info.class
+com/nyl/aggregator/core/models/package-info.class
+com/nyl/aggregator/core/servlets/SimpleServlet.class
+com/nyl/aggregator/core/models/HelloWorldModel.class
+com/nyl/aggregator/core/schedulers/SimpleScheduledTask.class
+com/nyl/aggregator/core/schedulers/package-info.class
+com/nyl/aggregator/core/listeners/SimpleResourceListener.class
