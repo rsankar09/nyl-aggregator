@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/nyl-aggregator" mode="merge"/>
+    <filter root="/content/nyl-aggregator" mode="merge"/>
+    <filter root="/content/dam/nyl-aggregator" mode="merge">
+        <exclude pattern="/content/dam/nyl-aggregator(/.*)?"/>
+        <include pattern="/content/dam/nyl-aggregator/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/nyl-aggregator/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/nyl-aggregator" mode="merge"/>
+</workspaceFilter>

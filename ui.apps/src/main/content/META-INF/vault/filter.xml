@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/nyl-aggregator/clientlibs"/>
+    <filter root="/apps/nyl-aggregator/components"/>
+    <filter root="/apps/nyl-aggregator/i18n"/>
+</workspaceFilter>
